@@ -33,5 +33,6 @@ jobs:
         if: matrix.ruby-version == '3.3'
         uses: codecov/codecov-action@v5
         with:
+          files: ./coverage/lcov/asciidown.lcov
           token: ${{ secrets.CODECOV_TOKEN }}
           fail_ci_if_error: false

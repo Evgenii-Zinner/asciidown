@@ -4,7 +4,7 @@ A fast, lightweight, pure Ruby converter from AsciiDoc to GitHub Flavored Markdo
 
 [![CI](https://github.com/Evgenii-Zinner/asciidown/actions/workflows/ci.yml/badge.svg)](https://github.com/Evgenii-Zinner/asciidown/actions/workflows/ci.yml)
 [![codecov](https://codecov.io/gh/Evgenii-Zinner/asciidown/branch/main/graph/badge.svg)](https://codecov.io/gh/Evgenii-Zinner/asciidown)
-[![Gem Version](https://badge.fury.io/rb/asciidown.svg)](https://badge.fury.io/rb/asciidown)
+[![Gem Version](https://img.shields.io/gem/v/asciidown.svg)](https://rubygems.org/gems/asciidown)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Features
